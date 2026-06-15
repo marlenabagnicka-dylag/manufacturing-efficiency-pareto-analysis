@@ -29,3 +29,9 @@ efficiency_pct
 - share of total time
 - cumulative share (Pareto)
 4. Select top contributors (80%)
+
+ **Production Efficiency Dashboard**
+
+Click the image below to open the interactive Tableau dashboard.
+
+[![Production Efficiency Dashboard](images/dashboard.png)](https://public.tableau.com/views/pareto_analysis_v201/ProductionEfficiencyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
